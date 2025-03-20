@@ -4,7 +4,7 @@ Flutterで開発した将棋ゲームアプリです。コンピュータAIを�
 
 ## デモ
 
-[デモ動画を見る](./demo/shogi_demo.mp4)
+![デモGIF](./demo/shogi_demo.gif)
 
 スクリーンショット:
 
