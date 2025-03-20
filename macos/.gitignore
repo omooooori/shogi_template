@@ -1,0 +1,30 @@
+# Flutter-related
+**/Flutter/ephemeral/
+**/Pods/
+
+# Xcode-related
+**/dgph
+**/xcuserdata/
+xcshareddata/
+xcuserdata/
+*.dSYM.zip
+*.dSYM
+
+# macOS-specific
+.DS_Store
+.LSOverride
+.AppleDouble
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Flutter ephemeral関連
+Flutter/Flutter-Debug.xcconfig
+Flutter/Flutter-Release.xcconfig
+Flutter/Flutter-Profile.xcconfig
+Flutter/ephemeral/
+Flutter/GeneratedPluginRegistrant.swift
+Flutter/flutter_export_environment.sh
